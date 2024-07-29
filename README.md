@@ -1,4 +1,4 @@
-# Patent Topic Modeling Project
+# Innovation Strength Analysis with Patents - Topic Modeling
 
 This project uses BERTopic to perform topic modeling on patent embeddings and texts. It generates an overview of contained topics and assigns patents to specific topics based on keyword similarity.
 
